@@ -1,2 +1,2 @@
-# election2024
-Election 2024 map of the US Electoral College made up of Congressional Representatives.
+# US Electoral Vote
+Election map of the US Electoral College which is equivalent to the number of Congressional Senators and Representatives.
